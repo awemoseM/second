@@ -4,6 +4,8 @@
 /* accent */
 
 
+
+
 *{
     margin: 0;
     padding: 0;
@@ -14,6 +16,7 @@
 
 body {
     font-family: 'Oswald', sans-serif;
+    
 }
 
 .container {
@@ -312,7 +315,7 @@ h1{
     justify-content: flex-start;
     align-items: center;
     padding: 25px 0 10px 15px;
-    color: #F7654A;
+    color: blue;
 }
 
 .fish {
